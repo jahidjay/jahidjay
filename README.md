@@ -36,8 +36,8 @@ I am a passionate Game Developer in Unreal engine. I am also an Civil Enigneer a
 
 ## 📫 How to reach me:
 
-- Connect with me on [LinkedIn]([https://www.linkedin.com/in/penguinstream/])
-- Connect with me on [Facebook]([https://www.facebook.com/penguinstream])
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/penguinstream/)
+- Connect with me on [Facebook](https://www.facebook.com/penguinstream)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
