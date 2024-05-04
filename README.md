@@ -2,7 +2,7 @@
 
 I am a passionate Game Developer in Unreal engine. I am also an Civil Enigneer academically with a Diploma . Passianate about Unreal engine and Game Development in general.
 
-![<jahidjay>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![jahidjay's Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
